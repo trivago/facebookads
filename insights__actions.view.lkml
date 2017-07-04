@@ -1,5 +1,5 @@
 view: ad_action_insights {
-  sql_table_name: looker_facebook.facebook_ads_insights_x__actions ;;
+    sql_table_name: at_test.facebook_ads_insights_1375720222652548 ;;
   #   - dimension: 1d_click
   #     type: number
   #     sql: ${TABLE}.1d_click

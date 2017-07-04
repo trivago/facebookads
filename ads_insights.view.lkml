@@ -1,5 +1,5 @@
 view: ad_insights {
-  sql_table_name: looker_facebook.facebook_ads_insights_x ;;
+  sql_table_name: at_test.facebook_ads_insights_1375720222652548 ;;
   # API documentation: https://developers.facebook.com/docs/marketing-api/insights/fields/v2.6
 
   ## STANDARD FIELDS

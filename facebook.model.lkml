@@ -1,4 +1,4 @@
-connection: "vandelay_looker_connection"
+connection: "facebook_bq"
 
 # include all the views
 include: "*.view"
