@@ -76,7 +76,7 @@ view: ad_insights {
     sql: ${TABLE}.frequency ;;
   }
 
-  measure: impressions {
+  dimension: impressions {
     type: number
     sql: ${TABLE}.impressions ;;
   }
