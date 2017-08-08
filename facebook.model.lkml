@@ -9,6 +9,12 @@ include: "*.dashboard"
 explore: country_coordinates {}
 
 explore: ads {
+  always_filter: {
+    filters: {
+      field: created_date
+      value: "60 days ago for 60 days"
+    }
+  }
   join: campaigns {
     type: left_outer
     sql_on: ${ads.campaign_id} = ${campaigns.id} ;;
