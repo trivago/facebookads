@@ -1,4 +1,9 @@
 # facebookads
+
+> [!CAUTION]
+> This repository has been archived as of June 2026.  
+> If you wish to update or extend this project, please create a fork.
+
 LookML files for a Facebook block compatible with [Stitch](https://www.stitchdata.com/integrations/facebook-ads/).
 
 **Tables from the Facebook integration include your unique account id.** To use this block, you will need to:
